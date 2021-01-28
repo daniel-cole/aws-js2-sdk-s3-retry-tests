@@ -1,0 +1,16 @@
+{
+  "name": "aws-retry-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha s3.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.832.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
